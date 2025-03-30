@@ -1,4 +1,4 @@
-# ***Data Science Realm's job roles Salary Analysed based on different countries***
+# ***Salary Analysis of Data Science Roles Across Different Countries***
 
 ![Yearly_Salary_dashboard](https://github.com/user-attachments/assets/93c55a69-5032-4c97-bbc9-457eee546c12)
 1. Created interactive dashboard to track and analyze data science jobs in different countries.
