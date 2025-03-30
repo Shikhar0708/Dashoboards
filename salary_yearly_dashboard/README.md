@@ -6,4 +6,4 @@
 3. Also analysed which platforms are popular for data science different roles (data analyst, business analyst, data engineer, etc.)
 4. Also added the slicer to find out total sum of salaries/role in top 4 highest paying countries.
 5. Also added the visualization for the range in which all data science jobs lies in.
-6. Tools Used -  ***EXCEL***, ***POWERBI***.
+6. Tools Used -  ***EXCEL***, ***POWER-BI***.
