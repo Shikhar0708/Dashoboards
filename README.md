@@ -1,2 +1,5 @@
-# This Repository contains all the dashboards that I have analysed from different sources like web, excel, csv, etc.
-## [Linkedin](https://shorturl.at/L1JOq)
+# Business Analyst Dashboards Repo
+***Help me to convert this passion of mine of playing with data in a full time job***
+
+### [***Linkedin:-***] - https://www.linkedin.com/in/shikhar-kant-sinha
+
