@@ -8,4 +8,4 @@
 4. Utilized DAX calculations to create custom measures and KPIs, providing deeper analytical insights.
 5. Connected and transformed financial datasets using Power Query and SQL, ensuring data accuracy and efficiency.
 6. Optimized dashboard performance by implementing best practices in data modeling, reducing load time and improving usability.
-7. Tools Ued - ***Power-Bi***
+7. Tools Ued - ***Power-Bi, Power-Query Editor***
