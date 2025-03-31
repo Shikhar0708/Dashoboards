@@ -1,4 +1,4 @@
-# S&P 500 Visualized
+# ***S&P 500 Visualized***
 
 ![S P500_visualized](https://github.com/user-attachments/assets/0d4cc124-e1f8-4907-88af-84a2635f1f68)
 
