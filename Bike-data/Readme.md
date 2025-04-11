@@ -4,6 +4,10 @@
 
 ---
 
+![bike-data](https://github.com/user-attachments/assets/afcf91c1-3a7a-4f37-a938-77e58ecd981a)
+
+
+
 ## 📊 Key Trends Analyzed
 
 - **Hourly Revenue Analysis**
